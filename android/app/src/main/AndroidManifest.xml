@@ -109,7 +109,6 @@
               <data android:host="lemmy.world" />
               <data android:host="lemmy.wtf" />
               <data android:host="lemmy.zip" />
-              <data android:host="lemmygrad.ml" />
               <data android:host="lemmynsfw.com" />
               <data android:host="lemy.lol" />
               <data android:host="mander.xyz" />
@@ -119,7 +118,6 @@
               <data android:host="programming.dev" />
               <data android:host="reddthat.com" />
               <data android:host="sh.itjust.works" />
-              <data android:host="slrpnk.net" />
               <data android:host="sopuli.xyz" />
               <data android:host="startrek.website" />
               <data android:host="szmer.info" />
